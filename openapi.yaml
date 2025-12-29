@@ -1,0 +1,28 @@
+openapi: 3.0.0
+info:
+  title: ポジティブAI抱負 API
+  version: 1.0.0
+
+paths:
+  /api/houfu:
+    post:
+      summary: ポジティブなおみくじ結果を返す
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                text:
+                  type: string
+      responses:
+        '200':
+          description: 成功
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: string
