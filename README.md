@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ポジティブAI抱負
+## 🔗[ポジティブAI抱負](https://positive-ai-houfu.vercel.app/)
+## 
+<img width="1914" height="1040" alt="ポジティブAI抱負" src="https://github.com/user-attachments/assets/56be1ace-770a-4e2b-a383-459ebd1e1cc2" />
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# 💡 このミニアプリを作った理由  
+2025年は、スクールでの学びを活かし、Railsを用いたポートフォリオ制作に取り組みました。
+その後、LaravelやReactを使用したポートフォリオ制作にも挑戦し、複数の技術スタックで開発を経験しました。
+これらの挑戦を通して培った自走力を活かし、2025年の締めくくりとして、TypeScriptとNext.jsを使用したミニアプリの制作に挑戦しました。
+本アプリは、これまでの経験を活かし、2026年にエンジニアとして活躍するという抱負を掲げて制作しました。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# 👥 想定ユーザー  
+ - 今年の締めくくりとして、来年の抱負を掲げたい方
+ - 前向きな気持ちで新年を迎えたい方
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+ # 🖥️ 使い方
+![positive-ai-hohu](https://github.com/user-attachments/assets/62f67b77-1716-4dfe-bad4-afdc12f577fd)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+  ___
+# 🔧技術構成について
+## 使用技術
+|カテゴリ|技術内容|
+|---|---|
+|言語|TypeScript|
+|フレームワーク|Next.js（App Router)|
+|フロントエンド|React（TypeScript)|
+|CSSフレームワーク|Tailwind CSS|
+|Web API|Open API|
+|VCS|GitHub|
+|アプリケーションサーバ|Vercel|
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
