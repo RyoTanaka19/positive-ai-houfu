@@ -99,7 +99,7 @@ export default function Home() {
                 : 'bg-emerald-500 hover:bg-emerald-600'
             }`}
         >
-          {loading ? '文章を整理中…' : '🌟 抱負を言葉にする'}
+          {loading ? '抱負を作成中…' : '🌟 抱負を唱える'}
         </button>
 
         {/* 結果表示 */}
